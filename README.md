@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT System Administrator & Scripting Projects:</h2>
 
 - <b>Bash Scripts (Python sample projects from Josh Makador) </b>
-  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [System Health Monitor & Auto-Recovery Script](https://github.com/LeadNow1/Portfolio/blob/main/System%20Health%20Monitor%20&%20Auto%20Recovery%20Script)
 
 - <b>PowerShell (Sample projects from Josh Makador)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
