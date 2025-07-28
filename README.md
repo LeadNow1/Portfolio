@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT System Administrator & Scripting Projects:</h2>
 
-- <b>Bash Scripts (Python sample projects from Josh Makador) </b>
+- <b>Bash Scripts </b>
   - [System Health Monitor & Auto-Recovery Script](https://github.com/LeadNow1/Portfolio/blob/main/System%20Health%20Monitor%20&%20Auto%20Recovery%20Script)
 
 - <b>PowerShell (Sample projects from Josh Makador)</b>
