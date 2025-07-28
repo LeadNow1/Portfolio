@@ -24,7 +24,7 @@ disk_usage=$(df / | tail -1 | awk '{print $5}' | sed 's/%//')
 # Log system usage
 echo "$timestamp CPU: $cpu_usage% MEM: $mem_usage% DISK: $disk_usage%" >> "$LOGFILE"
 
-# Restart service if not active
+# Restart service if sshd is not active
 if ! systemctl is-active --quiet "$SERVICE"; then
     echo "$timestamp $SERVICE is down. Attempting restart..." >> "$LOGFILE"
     systemctl restart "$SERVICE"
