@@ -1,37 +1,45 @@
 #!/bin/bash
 
+# Log all of the info to this file
 LOGFILE="/var/log/system_health.log"
+
+# sshd is the service for remote access by SSH
 SERVICE="sshd"
 
-# Thresholds
+# Logs warnings if any of the usage value are above 80 
 CPU_THRESHOLD=80
 MEM_THRESHOLD=80
 DISK_THRESHOLD=80
 
-# Get current date
+# Get the current date
 timestamp=$(date "+%Y-%m-%d %H:%M:%S")
 
-# CPU usage
+# CPU Usage
+# Extract all of the CPU usage info from top output and print it out
 cpu_usage=$(top -bn1 | grep "Cpu(s)" | awk '{print 100 - $8}')
 cpu_usage=${cpu_usage%.*}
 
-# Memory usage
+# RAM Memory Usage
+# Round off the decimals from the percentage numbers
 mem_usage=$(free | awk '/Mem:/ { printf("%.0f"), $3/$2 * 100.0 }')
 
-# Disk usage (root)
+# Disk Usage (of the root filesystem)
+# df / checks the disk usage of the root partition
 disk_usage=$(df / | tail -1 | awk '{print $5}' | sed 's/%//')
 
 # Log system usage
 echo "$timestamp CPU: $cpu_usage% MEM: $mem_usage% DISK: $disk_usage%" >> "$LOGFILE"
 
 # Restart service if sshd is not active
+# If sshd service is down, log the event, restart service, log the restart
 if ! systemctl is-active --quiet "$SERVICE"; then
     echo "$timestamp $SERVICE is down. Attempting restart..." >> "$LOGFILE"
     systemctl restart "$SERVICE"
     echo "$timestamp Restarted $SERVICE." >> "$LOGFILE"
 fi
 
-# Warnings
+# Warnings If Usage Is Too High
+# If usage is > 80, record the warning into the log file
 if (( cpu_usage > CPU_THRESHOLD )); then
     echo "$timestamp WARNING: High CPU usage: $cpu_usage%" >> "$LOGFILE"
 fi
