@@ -1,0 +1,45 @@
+#!/bin/bash
+
+LOGFILE="/var/log/system_health.log"
+SERVICE="sshd"
+
+# Thresholds
+CPU_THRESHOLD=80
+MEM_THRESHOLD=80
+DISK_THRESHOLD=80
+
+# Get current date
+timestamp=$(date "+%Y-%m-%d %H:%M:%S")
+
+# CPU usage
+cpu_usage=$(top -bn1 | grep "Cpu(s)" | awk '{print 100 - $8}')
+cpu_usage=${cpu_usage%.*}
+
+# Memory usage
+mem_usage=$(free | awk '/Mem:/ { printf("%.0f"), $3/$2 * 100.0 }')
+
+# Disk usage (root)
+disk_usage=$(df / | tail -1 | awk '{print $5}' | sed 's/%//')
+
+# Log system usage
+echo "$timestamp CPU: $cpu_usage% MEM: $mem_usage% DISK: $disk_usage%" >> "$LOGFILE"
+
+# Restart service if not active
+if ! systemctl is-active --quiet "$SERVICE"; then
+    echo "$timestamp $SERVICE is down. Attempting restart..." >> "$LOGFILE"
+    systemctl restart "$SERVICE"
+    echo "$timestamp Restarted $SERVICE." >> "$LOGFILE"
+fi
+
+# Warnings
+if (( cpu_usage > CPU_THRESHOLD )); then
+    echo "$timestamp WARNING: High CPU usage: $cpu_usage%" >> "$LOGFILE"
+fi
+
+if (( mem_usage > MEM_THRESHOLD )); then
+    echo "$timestamp WARNING: High Memory usage: $mem_usage%" >> "$LOGFILE"
+fi
+
+if (( disk_usage > DISK_THRESHOLD )); then
+    echo "$timestamp WARNING: High Disk usage: $disk_usage%" >> "$LOGFILE"
+fi
