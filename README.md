@@ -1,4 +1,4 @@
-<h1>Template Rough Draft Portfolio: Hi, I'm William! <br/><a href="https://github.com/LeadNow1"></a>, <a href="https://www.linkedin.com/in/william-y-49043760/"> IT Support Administrator </a>, <a>IT Analyst </a> </h1>
+<h1>Template Rough Draft Portfolio: Hi, I'm William! <br/><a href="https://github.com/LeadNow1"></a>, <a href="https://www.linkedin.com/in/william-y-49043760/"> LinkedIn Profile </a>, <a>IT Support Administrator </a> </h1>
 
 <h2>👨‍💻 IT System Administrator & Scripting Projects:</h2>
 
