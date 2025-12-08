@@ -10,7 +10,7 @@
   - [System Health Monitor & Auto-Recovery Script by William Y](https://github.com/LeadNow1/Portfolio/blob/main/System%20Health%20Monitor%20&%20Auto%20Recovery%20Script)
 
 - <b>PowerShell (Sample projects from Josh Makador)</b>
-  - [Offboarding User Script for Azure Active Directory: Remove email, password, groups, license] (https://github.com/LeadNow1/Portfolio/blob/main/offboardScript.ps1)
+  - [Offboarding User Script for Azure Active Directory: Remove email, password, groups, license](https://github.com/LeadNow1/Portfolio/blob/main/offboardScript.ps1)
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion by Makador](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility) by Makador](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation by Makador](https://github.com/joshmadakor1/AD_PS)
