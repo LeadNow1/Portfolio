@@ -7,16 +7,16 @@
 <h2>👨‍💻 IT System Administrator & Scripting Projects:</h2>
 
 - <b>Bash Scripts </b>
-  - [System Health Monitor & Auto-Recovery Script](https://github.com/LeadNow1/Portfolio/blob/main/System%20Health%20Monitor%20&%20Auto%20Recovery%20Script)
+  - [System Health Monitor & Auto-Recovery Script by William Y](https://github.com/LeadNow1/Portfolio/blob/main/System%20Health%20Monitor%20&%20Auto%20Recovery%20Script)
 
 - <b>PowerShell (Sample projects from Josh Makador)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion by Makador](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility) by Makador](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation by Makador](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor) by Makador](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
     
 - <b>Python Scripts (Samples from Josh Makador)</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo) by Makador](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 
