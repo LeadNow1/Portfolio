@@ -1,7 +1,7 @@
-<h1>Template Rough Draft Portfolio: Hi, I'm William! <br/>
+<h1> IT Systems Administrator Portfolio: Hi, I'm William! <br/>
   <a href="https://github.com/LeadNow1"></a>, 
   <a href="https://www.linkedin.com/in/william-y-49043760/"> LinkedIn Profile </a>, 
-  <a>IT Support, Systems Administrator </a> 
+  <a>IT Support Engineer, Systems Administrator </a> 
 </h1>
 
 <h2>👨‍💻 IT Systems Administrator & Scripting Projects:</h2>
@@ -16,7 +16,7 @@
   - [Active Directory Bulk User Creation by Makador](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor) by Makador](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
     
-- <b>Python Scripts (Samples from Josh Makador)</b>
+- <b>Python Scripts (by Josh Makador)</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo) by Makador](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
