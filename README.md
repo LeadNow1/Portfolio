@@ -10,6 +10,8 @@
   - [System Health Monitor & Auto-Recovery script by William Yu](https://github.com/LeadNow1/Portfolio/blob/main/System%20Health%20Monitor%20&%20Auto%20Recovery%20Script)
   - [Create New User, Set Password, Force Password Change script by William Yu](https://github.com/LeadNow1/Portfolio/blob/main/createNewUserSetPassword.sh)
   - [Daily Backup Homefolder, gzip Compression On Archive script by William Yu](https://github.com/LeadNow1/Portfolio/blob/main/DailyBackupHomeFolder.sh)
+  - [Unlock a Locked User script by William Yu](https://github.com/LeadNow1/Portfolio/blob/main/unlockLockedUser.sh)
+  
 - <b>PowerShell (Sample projects from Josh Makador)</b>
   - [Offboarding User Script for Azure Active Directory: Remove email, password, groups, license](https://github.com/LeadNow1/Portfolio/blob/main/offboardScript.ps1)
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion by Makador](https://github.com/joshmadakor1/Sentinel-Lab)
