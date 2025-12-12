@@ -11,6 +11,7 @@
   - [Create New User, Set Password, Force Password Change script by William Yu](https://github.com/LeadNow1/Portfolio/blob/main/createNewUserSetPassword.sh)
   - [Daily Backup Homefolder, gzip Compression On Archive script by William Yu](https://github.com/LeadNow1/Portfolio/blob/main/DailyBackupHomeFolder.sh)
   - [Unlock a Locked User script by William Yu](https://github.com/LeadNow1/Portfolio/blob/main/unlockLockedUser.sh)
+  - [Check Service and If It's Down Restart It script](https://github.com/LeadNow1/Portfolio/blob/main/checkServiceRestart.sh)
   
 - <b>PowerShell (Sample projects from Josh Makador)</b>
   - [Offboarding User Script for Azure Active Directory: Remove email, password, groups, license](https://github.com/LeadNow1/Portfolio/blob/main/offboardScript.ps1)
