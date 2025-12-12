@@ -7,8 +7,8 @@
 <h2>👨‍💻 IT Systems Administrator & Scripting Projects:</h2>
 
 - <b>Bash Scripts </b>
-  - [System Health Monitor & Auto-Recovery Script by William Y](https://github.com/LeadNow1/Portfolio/blob/main/System%20Health%20Monitor%20&%20Auto%20Recovery%20Script)
-
+  - [System Health Monitor & Auto-Recovery script by William Yu](https://github.com/LeadNow1/Portfolio/blob/main/System%20Health%20Monitor%20&%20Auto%20Recovery%20Script)
+  - [Create New User, Set Password, Force Password Change script by William Yu](https://github.com/LeadNow1/Portfolio/blob/main/createNewUserSetPassword.sh)
 - <b>PowerShell (Sample projects from Josh Makador)</b>
   - [Offboarding User Script for Azure Active Directory: Remove email, password, groups, license](https://github.com/LeadNow1/Portfolio/blob/main/offboardScript.ps1)
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion by Makador](https://github.com/joshmadakor1/Sentinel-Lab)
