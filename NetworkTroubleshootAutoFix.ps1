@@ -1,6 +1,6 @@
 <# 
 ========================================================
-NETWORK TROUBLESHOOTING SCRIPT (BEGINNER FRIENDLY)
+NETWORK TROUBLESHOOTING SCRIPT
 
 Usage: .\NetworkTroubleshootingScript.ps1
 Script name: NetworkTroubleshootingScript.pst
@@ -21,7 +21,7 @@ If (-NOT ([Security.Principal.WindowsPrincipal] `
     [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole(`
     [Security.Principal.WindowsBuiltInRole] "Administrator"))
 {
-    Write-Host "❌ Please run PowerShell as Administrator." -ForegroundColor Red
+    Write-Host "Please run PowerShell as Administrator." -ForegroundColor Red
     Exit
 }
 
@@ -152,3 +152,4 @@ Write-Host "Network troubleshooting & auto-fix completed!" -ForegroundColor Gree
 Write-Host "Report saved to Desktop:"
 Write-Host "Network_Troubleshooting_AutoFix_Report.txt" -ForegroundColor Cyan
 Write-Host "Please RESTART the computer if internet issues persist." -ForegroundColor Yellow
+
