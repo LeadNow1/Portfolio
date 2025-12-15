@@ -15,7 +15,7 @@
   
 - <b> PowerShell Scripts </b>
   - [Offboarding User Script for Azure Active Directory: Remove email, password, groups, license](https://github.com/LeadNow1/Portfolio/blob/main/offboardScript.ps1)
-  - [Install Multiple Software Center Apps on Windows OS script by William YU](https://github.com/LeadNow1/Portfolio/blob/main/InstallSoftwareCenterApps.ps1)
+  - [Install Multiple Software Center Apps on Windows OS script by William Yu](https://github.com/LeadNow1/Portfolio/blob/main/InstallSoftwareCenterApps.ps1)
   - [Network Troubleshoot And Auto Fix Restart script by William Yu](https://github.com/LeadNow1/Portfolio/blob/main/NetworkTroubleshootAutoFix.ps1)
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion by Makador](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility) by Makador](https://github.com/joshmadakor1/Jwipe.PowerShell)
