@@ -23,7 +23,7 @@
   - [FIM (File Integrity Monitor) by Makador](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
     
 - <b> Python Scripts (by William Yu) </b>
-  # - [Python scripts for IT support engineers, System engineers, and Systems administrators coming soon) by William Yu]( )
+  - [Python scripts for IT support engineers, System engineers, and Systems administrators Coming Soon) by William Yu]( )
 
 
 
