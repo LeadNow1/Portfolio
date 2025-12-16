@@ -22,13 +22,13 @@
   - [Active Directory Bulk User Creation by Makador](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor) by Makador](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
     
-- <b> Python Scripts (by Josh Makador) </b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo) by Makador](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b> Python Scripts (by William Yu) </b>
+  # - [Python scripts for IT support engineers, System engineers, and Systems administrators coming soon) by William Yu]( )
 
 
 
-[linkedin]: https://www.linkedin.com/in/william-y-49043760/
+[Check out my Linkedin at]: https://www.linkedin.com/in/william-y-49043760/
 
 <!--
-Search how to create different repositories in GitHub like joshmadakor1/joshmadakor1
+IT portfolio showcasing scripts for Entra ID (Azure Active Directory), Bash scripting, and Powershell scripting
 -->
