@@ -29,7 +29,8 @@
 - <b> Python Scripts (by William Yu) </b>
   - [Python scripts for IT support engineers, System engineers, and Systems administrators Coming Soon) by William Yu]( )
 
-
+- <b> Azure System Administrator Tasks </b>
+  - [Create Security Group in Entra ID](Create Security Group in Entra ID Lab.pdf)
 
 [Check out my Linkedin at]: https://www.linkedin.com/in/william-y-49043760/
 
