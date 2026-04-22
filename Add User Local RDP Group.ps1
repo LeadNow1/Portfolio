@@ -6,7 +6,7 @@ Add-LocalGroupMember -Group "Remote Desktop Users" -Member "DOMAIN\username"
 # 2. Add an AD security group instead of individual users for easier management
 Add-LocalGroupMember -Group "Remote Desktop Users" -Member "DOMAIN\GroupName"
 
-# 3. Verify membership after adding
+# 3. Verify group membership after adding
 Get-LocalGroupMember -Group "Remote Desktop Users"
 
 
