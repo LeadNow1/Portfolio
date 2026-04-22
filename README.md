@@ -1,7 +1,7 @@
 <h1> IT Systems Administrator Portfolio: Hi, I'm William! <br/>
   <a href="https://github.com/LeadNow1"></a>, 
-  <a href="https://www.linkedin.com/in/william-y-49043760/"> LinkedIn Profile </a>, 
-  <a>IT Support Engineer, Systems Administrator </a> 
+  <a href="https://www.linkedin.com/in/william-y-49043760/"> LinkedIn Profile</a>, 
+  <a>IT Support Engineer, Systems Administrator</a> 
 </h1>
 
 <h2>👨‍💻 IT Systems Administrator & Scripting Projects:</h2>
@@ -30,7 +30,8 @@
   - [Python scripts for IT support engineers, System engineers, and Systems administrators Coming Soon) by William Yu]( )
 
 - <b> Azure System Administrator Tasks </b>
-  - [Create Security Group in Entra ID](https://github.com/LeadNow1/Portfolio/blob/main/Create%20Security%20Group%20in%20Entra%20ID%20Lab.pdf)
+  - [Create Security Group in Entra ID (SOP)](https://github.com/LeadNow1/Portfolio/blob/main/Create%20Security%20Group%20in%20Entra%20ID%20Lab.pdf)
+  - [Add User to Local RDP Group (Powershell script)](https://github.com/LeadNow1/Portfolio/blob/main/Add%20User%20Local%20RDP%20Group.ps1)
 
 [Check out my Linkedin at]: https://www.linkedin.com/in/william-y-49043760/
 
