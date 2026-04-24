@@ -34,7 +34,7 @@
   - [Add User to Local RDP Group (Powershell script)](https://github.com/LeadNow1/Portfolio/blob/main/Add%20User%20Local%20RDP%20Group.ps1)
   - [Set Up Self Service Password in Entra ID (SOP)](https://github.com/LeadNow1/Portfolio/blob/main/Configure%20SSPR%20in%20Entra%20ID%20(Azure%20Active%20Directory)%20Lab.pdf)
   - [Manage User Properties in Entra ID (SOP)](https://github.com/LeadNow1/Portfolio/blob/main/Manage%20User%20Properties%20in%20Entra%20ID%20(SOP).pdf)
-  - [Assign License to User in Entra ID](https://github.com/LeadNow1/Portfolio/blob/main/Assign%20License%20to%20User%20in%20Entra%20ID%20(SOP).pdf)
+  - [Assign License to User in Entra ID (SOP)](https://github.com/LeadNow1/Portfolio/blob/main/Assign%20License%20to%20User%20in%20Entra%20ID%20(SOP).pdf)
 
 [Check out my Linkedin at]: https://www.linkedin.com/in/william-y-49043760/
 
