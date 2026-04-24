@@ -32,6 +32,7 @@
 - <b> Azure System Administrator Tasks </b>
   - [Create Security Group in Entra ID (SOP)](https://github.com/LeadNow1/Portfolio/blob/main/Create%20Security%20Group%20in%20Entra%20ID%20Lab.pdf)
   - [Add User to Local RDP Group (Powershell script)](https://github.com/LeadNow1/Portfolio/blob/main/Add%20User%20Local%20RDP%20Group.ps1)
+  - [Set Up Self Service Password in Entra ID (SOP)](https://github.com/LeadNow1/Portfolio/blob/main/Configure%20SSPR%20in%20Entra%20ID%20(Azure%20Active%20Directory)%20Lab.pdf)
 
 [Check out my Linkedin at]: https://www.linkedin.com/in/william-y-49043760/
 
