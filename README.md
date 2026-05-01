@@ -40,7 +40,7 @@
   - [Add and Remove Resource Locks in Azure (SOP)](https://github.com/LeadNow1/Portfolio/blob/main/Add%20and%20Remove%20Resource%20Locks%20in%20Azure%20(SOP).pdf)
   - [Tag Resources in Microsoft Azure (SOP)](https://github.com/LeadNow1/Portfolio/blob/main/Tag%20Resources%20in%20Microsoft%20Azure%20(SOP).pdf)
   - [Create a Key Vault in Microsoft Azure (SOP)](https://github.com/LeadNow1/Portfolio/blob/main/Create%20a%20Key%20Vault%20in%20Microsoft%20Azure%20(SOP).pdf)
-  - [ Create an Azure Storage Account (SOP)]([https://github.com/LeadNow1/Portfolio/blob/main/Create%20a%20Key%20Vault%20in%20Microsoft%20Azure%20(SOP).pdf](https://github.com/LeadNow1/Portfolio/blob/main/Create%20an%20Azure%20Storage%20Account%20(SOP).pdf))
+  - [ Create an Azure Storage Account (SOP)]](https://github.com/LeadNow1/Portfolio/blob/main/Create%20an%20Azure%20Storage%20Account%20(SOP).pdf))
  
 [Check out my Linkedin at]: https://www.linkedin.com/in/william-y-49043760/
 
