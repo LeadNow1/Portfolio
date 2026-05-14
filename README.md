@@ -42,6 +42,7 @@
   - [Create a Key Vault in Microsoft Azure (SOP)](https://github.com/LeadNow1/Portfolio/blob/main/Create%20a%20Key%20Vault%20in%20Microsoft%20Azure%20(SOP).pdf)
   - [ Create an Azure Storage Account (SOP)](https://github.com/LeadNow1/Portfolio/blob/main/Create%20an%20Azure%20Storage%20Account%20(SOP).pdf)
   - [ Create and Configure an Azure File Share (SOP)](https://github.com/LeadNow1/Portfolio/blob/main/Create%20and%20Configure%20an%20Azure%20File%20Share%20(SOP).pdf)
+  - [Create a Blob Container in Azure Storage (SOP)](https://github.com/LeadNow1/Portfolio/blob/main/Create%20a%20Blob%20Container%20in%20Azure%20Storage%20(SOP).pdf)
  
 [Check out my Linkedin at]: https://www.linkedin.com/in/william-y-49043760/
 
