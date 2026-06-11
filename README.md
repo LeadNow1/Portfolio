@@ -45,6 +45,7 @@
   - [Create a Blob Container in Azure Storage (SOP)](https://github.com/LeadNow1/Portfolio/blob/main/Create%20a%20Blob%20Container%20in%20Azure%20Storage%20(SOP).pdf)
   - [Create a SAS Token in Azure Storage (SOP)](https://github.com/LeadNow1/Portfolio/blob/1686226887b8ccba7a73641dace1f1022531cd7a/Create%20a%20SAS%20Token%20in%20Azure%20Storage%20(SOP).pdf)
   - [Deploy and Configure an Azure VM (SOP)](https://github.com/LeadNow1/Portfolio/blob/e443f4fe7c9c5ed5259244014b61cc897b0ab06c/Deploy%20and%20Configure%20an%20Azure%20VM%20(SOP).pdf)
+  - [Resize an Azure Virtual Machine (SOP)](https://github.com/LeadNow1/Portfolio/blob/67df0f79a0c3c9a56bb048bdb94569ddf119f62b/Resize%20an%20Azure%20Virtual%20Machine%20(SOP).pdf)
  
 [Check out my Linkedin at]: https://www.linkedin.com/in/william-y-49043760/
 
