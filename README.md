@@ -47,6 +47,7 @@
   - [Deploy and Configure an Azure VM (SOP)](https://github.com/LeadNow1/Portfolio/blob/e443f4fe7c9c5ed5259244014b61cc897b0ab06c/Deploy%20and%20Configure%20an%20Azure%20VM%20(SOP).pdf)
   - [Resize an Azure Virtual Machine (SOP)](https://github.com/LeadNow1/Portfolio/blob/67df0f79a0c3c9a56bb048bdb94569ddf119f62b/Resize%20an%20Azure%20Virtual%20Machine%20(SOP).pdf)
   - [Move an Azure VM to Another Resource Group (SOP)](https://github.com/LeadNow1/Portfolio/blob/5fd122045268a8b8a3b71077b2f458371f27f5b8/Move%20an%20Azure%20VM%20to%20Another%20Resource%20Group%20(SOP).pdf)
+  - [Deploy and Configure an Azure VM Scale Set (SOP)](https://github.com/LeadNow1/Portfolio/blob/ef82657ba3e94e6b3cbbbf7bfc84759be3de3f44/Deploy%20and%20Configure%20an%20Azure%20VM%20Scale%20Set%20(SOP).pdf)
 
  
 [Check out my Linkedin at]: https://www.linkedin.com/in/william-y-49043760/
