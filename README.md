@@ -49,6 +49,7 @@
   - [Move an Azure VM to Another Resource Group (SOP)](https://github.com/LeadNow1/Portfolio/blob/5fd122045268a8b8a3b71077b2f458371f27f5b8/Move%20an%20Azure%20VM%20to%20Another%20Resource%20Group%20(SOP).pdf)
   - [Deploy and Configure an Azure VM Scale Set (SOP)](https://github.com/LeadNow1/Portfolio/blob/ef82657ba3e94e6b3cbbbf7bfc84759be3de3f44/Deploy%20and%20Configure%20an%20Azure%20VM%20Scale%20Set%20(SOP).pdf)
   - [Create and Configure a vNet in Azure (SOP)](https://github.com/LeadNow1/Portfolio/blob/0c1b1e868c114e6c35e842aa879805721e951be6/Create%20and%20Configure%20a%20vNet%20in%20Azure%20(SOP)%20(1).pdf)
+  - [Create and Configure an NSG in Azure (SOP)](https://github.com/LeadNow1/Portfolio/blob/63e77c0162e387dc69b0d6949479bda290690bce/Create%20and%20Configure%20an%20NSG%20in%20Azure%20(SOP).pdf)
 
  
 [Check out my Linkedin at]: https://www.linkedin.com/in/william-y-49043760/
