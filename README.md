@@ -51,6 +51,7 @@
   - [Create and Configure a vNet in Azure (SOP)](https://github.com/LeadNow1/Portfolio/blob/0c1b1e868c114e6c35e842aa879805721e951be6/Create%20and%20Configure%20a%20vNet%20in%20Azure%20(SOP)%20(1).pdf)
   - [Create and Configure an NSG in Azure (SOP)](https://github.com/LeadNow1/Portfolio/blob/63e77c0162e387dc69b0d6949479bda290690bce/Create%20and%20Configure%20an%20NSG%20in%20Azure%20(SOP).pdf)
   - [Configure vNet Peering in Azure (SOP)](https://github.com/LeadNow1/Portfolio/blob/a481c80f354b6058439d19f2a58349bd9ce5a888/Configure%20vNet%20Peering%20in%20Azure%20(SOP).pdf)
+  - [Deploy an Internal Load Balancer in Azure (SOP)](https://github.com/LeadNow1/Portfolio/blob/0b7d5bef103972488d35ae34fe10eb9c401134ef/Deploy%20an%20Internal%20Load%20Balancer%20in%20Azure%20(SOP).pdf)
 
  
 [Check out my Linkedin at]: https://www.linkedin.com/in/william-y-49043760/
