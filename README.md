@@ -53,6 +53,7 @@
   - [Configure vNet Peering in Azure (SOP)](https://github.com/LeadNow1/Portfolio/blob/a481c80f354b6058439d19f2a58349bd9ce5a888/Configure%20vNet%20Peering%20in%20Azure%20(SOP).pdf)
   - [Deploy an Internal Load Balancer in Azure (SOP)](https://github.com/LeadNow1/Portfolio/blob/0b7d5bef103972488d35ae34fe10eb9c401134ef/Deploy%20an%20Internal%20Load%20Balancer%20in%20Azure%20(SOP).pdf)
   - [Deploy and Configure Azure Bastion (SOP)](https://github.com/LeadNow1/Portfolio/blob/0b7d5bef103972488d35ae34fe10eb9c401134ef/Deploy%20an%20Internal%20Load%20Balancer%20in%20Azure%20(SOP).pdf)
+  - [Create a Recovery Services Vault in Azure (SOP).pdf](https://github.com/LeadNow1/Portfolio/blob/fd99a62bbf2490d790d847ab2aac8f5ead14f17c/Create%20a%20Recovery%20Services%20Vault%20in%20Azure%20(SOP).pdf)
 
  
 [Check out my Linkedin at]: https://www.linkedin.com/in/william-y-49043760/
